@@ -185,4 +185,4 @@ predict_image(model,image_index=80,dataset=test_dataset)
 ![image](https://github.com/user-attachments/assets/0c2d5258-af45-4d02-87ee-9598c9ea10e4)
 
 ## RESULT
-Include your result here
+Thus the CNN model was trained and tested successfully on the MNIST dataset.
